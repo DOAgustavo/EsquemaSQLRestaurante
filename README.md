@@ -34,7 +34,13 @@ Você faz parte de uma equipe de desenvolvimento de sistemas e seu cliente é um
 - **`DER/`**: Contém o diagrama de entidade-relacionamento no formato PDF ou imagem.
 - **`SQL/`**: Scripts SQL com as tabelas, inserções de dados e consultas para os relatórios.
 
----
+
+## 📊 Diagrama de Entidade-Relacionamento (DER)
+
+O diagrama abaixo ilustra a estrutura do banco de dados para o sistema de gestão do restaurante:
+
+![Diagrama de Entidade-Relacionamento](img/Diagram.jpeg)
+
 
 ## 🛠️ Ferramentas Utilizadas
 
