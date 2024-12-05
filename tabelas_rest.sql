@@ -1,4 +1,4 @@
-CREATE DATABASE restaurante;
+
 USE restaurante;
 
 CREATE TABLE categoria (
